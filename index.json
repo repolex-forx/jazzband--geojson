@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "geojson",
+  "versions": [
+    {
+      "commit": "82055e8679bbcdef5bd7fc0a3c7168e86cbd3d12",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:36:03.989705+00:00"
+    }
+  ]
+}
