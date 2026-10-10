@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jazzband/geojson/commit/82055e8679bbcdef5bd7fc0a3c7168e86cbd3d12",
       "git:hexsha": "82055e8679bbcdef5bd7fc0a3c7168e86cbd3d12",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T19:36:03.908185+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/geojson/commit/f07ba61b5a87ba44de07e798e444b1636ff39aa1",
